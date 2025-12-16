@@ -30,24 +30,43 @@ This project integrates data from three sources:
   
 structure
 ├── README.md
+
 ├── requirements.txt
+
 ├── project_proposal.pdf
+
 ├── results/
+
 │ └── final_report.pdf
+
 ├── data/
+
 │ ├── raw/
+
 │ │ ├── wikipedia_breeds.json
+
 │ │ ├── pageviews.json
+
 │ │ └── catapi_breeds.json
+
 │ └── processed/
+
 │ ├── cats_final.csv
+
 │ └── cats_with_clusters.csv
+
 └── src/
+
 ├── catapi.py
+
 └── pageviews_api.py
+
 └── wiki_scraper.py
+
 ├── clean_data.py
+
 ├── run_analysis.py
+
 ├── visualize_results.py
 
 ##how to run this step by step
