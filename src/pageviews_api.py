@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import requests
 import datetime
 import time
@@ -71,8 +65,6 @@ with open("data/raw/wikipedia_breeds.json", "r", encoding="utf-8") as f:
 
 save_pageviews(wiki_breeds)
 
-
-# In[ ]:
 
 
 
