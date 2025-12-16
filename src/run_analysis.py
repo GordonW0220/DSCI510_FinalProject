@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -42,9 +36,6 @@ print(df["cluster"].value_counts())
 
 df.to_csv("data/processed/cats_with_clusters.csv", index=False)
 print("\nSaved clustered data to data/processed/cats_with_clusters.csv")
-
-
-# In[ ]:
 
 
 
