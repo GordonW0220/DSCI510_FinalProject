@@ -1,0 +1,608 @@
+[
+  {
+    "breed": "Abyssinian",
+    "origin": "Unspecified, but somewhere in Afro-Asia, likelyEthiopia",
+    "body_type": "Semi-foreign",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Aegean",
+    "origin": "Greece",
+    "body_type": "Moderate",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "American Bobtail",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "American Curl",
+    "origin": "United States",
+    "body_type": "Semi-foreign",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "American Shorthair",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "American Wirehair",
+    "origin": "United States",
+    "body_type": "Normal",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "Aphrodite Giant",
+    "origin": "Cyprus",
+    "body_type": "Lean and muscular",
+    "coat_type": "All"
+  },
+  {
+    "breed": "Arabian Mau",
+    "origin": "Arabian Peninsula",
+    "body_type": "Moderate and muscular",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Asian",
+    "origin": "United Kingdom",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Asian Semi-longhair",
+    "origin": "United Kingdom",
+    "body_type": "Moderate",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Australian Mist",
+    "origin": "Australia",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Balinese",
+    "origin": "Developed in United States;foundation stock from Thailand",
+    "body_type": "Semi-foreign",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Bambino",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Bengal",
+    "origin": "Developed in United States,but created in Asia",
+    "body_type": "Large",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Birman",
+    "origin": "Developed in France;foundation stock from Burma (Myanmar)",
+    "body_type": "Cobby",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Bombay",
+    "origin": "United States and Burma (Myanmar)",
+    "body_type": "Cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Brazilian Shorthair",
+    "origin": "Brazil",
+    "body_type": "Normal",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "British Longhair",
+    "origin": "United Kingdom (England)",
+    "body_type": "Cobby",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "British Shorthair",
+    "origin": "United Kingdom (England)",
+    "body_type": "Cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Burmese",
+    "origin": "Burma (Myanmar)",
+    "body_type": "Semi-foreign or semi-cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Burmilla",
+    "origin": "United Kingdom (England)",
+    "body_type": "Semi-cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "California Spangled",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Chantilly-Tiffany",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Chartreux",
+    "origin": "France",
+    "body_type": "Muscular; cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Chausie",
+    "origin": "United States",
+    "body_type": "Normal",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Colorpoint Shorthair",
+    "origin": "United Kingdom (England)",
+    "body_type": "Foreign",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Cornish Rex",
+    "origin": "Cornwall, England,United Kingdom",
+    "body_type": "Foreign",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "Cymric, Manx Longhair or Long-haired Manx[a]",
+    "origin": "Isle of Man, United States, and Canada[b]",
+    "body_type": "Semi-cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Cyprus",
+    "origin": "Cyprus",
+    "body_type": "Lean and muscular",
+    "coat_type": "All"
+  },
+  {
+    "breed": "Devon Rex",
+    "origin": "Buckfastleigh, Devon, England, United Kingdom",
+    "body_type": "Semi-foreign",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "DonskoyorDon Sphynx",
+    "origin": "Russia",
+    "body_type": "Semi-foreign",
+    "coat_type": "Hairless"
+  },
+  {
+    "breed": "Dragon LiorChinese Li Hua",
+    "origin": "China",
+    "body_type": "Normal",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Dwelf",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Hairless"
+  },
+  {
+    "breed": "Egyptian Mau",
+    "origin": "Egypt",
+    "body_type": "Moderate and muscular",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "European Shorthair",
+    "origin": "Continental Europe",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Exotic Shorthair",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Foldex",
+    "origin": "Canada",
+    "body_type": "Cobby",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "German Rex",
+    "origin": "Germany",
+    "body_type": "Semi-foreign",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "Havana Brown",
+    "origin": "United Kingdom (England);foundation stock from Thailand",
+    "body_type": "Semi-foreign",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Highlander",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "HimalayanorColorpoint Persian[c]",
+    "origin": "United States and United Kingdom",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Jianzhou cat",
+    "origin": "China",
+    "body_type": "Normal",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Japanese Bobtail",
+    "origin": "Japan[d]",
+    "body_type": "Moderate",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "JavaneseorColorpoint Longhair[e]",
+    "origin": "Developed in United Statesand Canada;foundation stock from Southeast Asia",
+    "body_type": "Oriental",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Kanaani",
+    "origin": "Israel",
+    "body_type": "Semi-foreign",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Karelian Bobtail",
+    "origin": "Ladoga Karelia, Russia",
+    "body_type": "Medium",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Khao Manee",
+    "origin": "Thailand",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Kinkalow",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Korat",
+    "origin": "Thailand",
+    "body_type": "Semi-foreign or semi-cobby and muscular",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Korean Bobtail",
+    "origin": "Korea",
+    "body_type": "Moderate",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Korn Jaor Konja[citation needed]",
+    "origin": "Thailand",
+    "body_type": "Small",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Kurilian BobtailorKuril Islands Bobtail",
+    "origin": "Kuril Islands, North Pacific",
+    "body_type": "Semi-cobby",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Lambkin",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "LaPerm",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Rex"
+  },
+  {
+    "breed": "Lykoi",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Sparse haired"
+  },
+  {
+    "breed": "Maine Coon",
+    "origin": "United States",
+    "body_type": "Large",
+    "coat_type": "Semi-long/long"
+  },
+  {
+    "breed": "Manx",
+    "origin": "Isle of Man",
+    "body_type": "Moderate",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Mekong Bobtail",
+    "origin": "Developed in Russia;foundation stock ultimately fromSoutheast Asia",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Minskin",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Hairless"
+  },
+  {
+    "breed": "Minuet",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Munchkin",
+    "origin": "United States",
+    "body_type": "Dwarf",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Nebelung",
+    "origin": "United States",
+    "body_type": "Foreign",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Neva Masquerade(colorpointSiberian)[f]",
+    "origin": "Russia",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Norwegian Forest cat",
+    "origin": "Norway",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Ocicat",
+    "origin": "United States",
+    "body_type": "Large",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Ojos Azules(extinct)",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Oriental Bicolor",
+    "origin": "Developed in United States and United Kingdom, later in Continental Europe;foundation stock ultimately from Thailand",
+    "body_type": "Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Oriental Longhair[g]",
+    "origin": "Developed in United States and United Kingdom;foundation stock ultimately from Thailand",
+    "body_type": "Oriental",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Oriental Shorthair[g]",
+    "origin": "Developed in United States and United Kingdom;foundation stock ultimately from Thailand",
+    "body_type": "Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Persian (modern)",
+    "origin": "Developed in United States and Europe;foundation stock fromGreater Iran",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Persian (traditional)",
+    "origin": "Greater Iran",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Peterbald",
+    "origin": "Russia",
+    "body_type": "Oriental",
+    "coat_type": "Hairless, velour, brush, or straight coat"
+  },
+  {
+    "breed": "Pixie-bob",
+    "origin": "United States",
+    "body_type": "Medium",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "RagamuffinorLiebling(obsolete)",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Ragdoll",
+    "origin": "United States",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Raas",
+    "origin": "Raas Island,Indonesia",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Russian Blue",
+    "origin": "Russia",
+    "body_type": "Moderate, Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Russian White, Russian Black and Russian Tabby",
+    "origin": "Developed in Australia;foundation stock from Russia",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Sam Sawet",
+    "origin": "Thailand",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Savannah",
+    "origin": "United States",
+    "body_type": "Large",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Scottish Fold",
+    "origin": "United Kingdom (Scotland)",
+    "body_type": "Cobby",
+    "coat_type": "Short/long"
+  },
+  {
+    "breed": "Selkirk Rex",
+    "origin": "United States in 1988",
+    "body_type": "Large and cobby",
+    "coat_type": "Short/long (longhair, sometimes in early generations, can appear to be semi-long)"
+  },
+  {
+    "breed": "Serengeti",
+    "origin": "United States",
+    "body_type": "Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Siamese(modern)(for traditional, seeThai)",
+    "origin": "Developed in United States and Europe;foundation stock from Thailand",
+    "body_type": "Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "SiberianorSiberian Forest Cat(for colorpoint, seeNeva Masquerade)",
+    "origin": "Siberian Tundra, Russia.",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Singapura",
+    "origin": "Developed in United States;foundation stock from Singapore",
+    "body_type": "Small",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Snowshoe",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Sokoke",
+    "origin": "Kenya",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Somali",
+    "origin": "United States, Canada",
+    "body_type": "Cobby",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Sphynx",
+    "origin": "Canada, Europe",
+    "body_type": "Oriental",
+    "coat_type": "Hairless"
+  },
+  {
+    "breed": "Suphalak",
+    "origin": "Thailand",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "ThaiorTraditional, Classic, or Old-style Siamese;Wichien Maat[h]",
+    "origin": "Developed in Europe;foundation stock from Thailand",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Thai Lilac, Thai Blue Point and Thai Lilac Point",
+    "origin": "Thailand",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Tonkinese",
+    "origin": "Canada, United States",
+    "body_type": "Oriental",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Toybob",
+    "origin": "Russia",
+    "body_type": "Dwarf",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Toyger",
+    "origin": "United States",
+    "body_type": "Moderate",
+    "coat_type": "Short"
+  },
+  {
+    "breed": "Turkish Angora",
+    "origin": "Turkey",
+    "body_type": "Semi-cobby",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Turkish Van[i]",
+    "origin": "Developed in United Kingdom;foundation stock from Turkey",
+    "body_type": "Semi-cobby",
+    "coat_type": "Semi-long"
+  },
+  {
+    "breed": "Turkish Vankedisi(white variety ofTurkish Van)[i]",
+    "origin": "Developed in United Kingdom;foundation stock from Turkey",
+    "body_type": "Svelte",
+    "coat_type": "Long"
+  },
+  {
+    "breed": "Ukrainian Levkoy",
+    "origin": "Ukraine",
+    "body_type": "Moderate",
+    "coat_type": "Hairless"
+  },
+  {
+    "breed": "York Chocolate",
+    "origin": "New York, United States",
+    "body_type": "Moderate",
+    "coat_type": "Long"
+  }
+]
