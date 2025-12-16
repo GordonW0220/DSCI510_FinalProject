@@ -63,7 +63,7 @@ structure
 
 └── wiki_scraper.py
 
-├── clean_data.py
+├── data_clean.py
 
 ├── run_analysis.py
 
