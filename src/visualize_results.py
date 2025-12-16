@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -58,9 +52,6 @@ plt.ylabel("Grooming Requirement")
 plt.title("Cat Breed Clusters by Traits")
 plt.tight_layout()
 plt.show()
-
-
-# In[ ]:
 
 
 
