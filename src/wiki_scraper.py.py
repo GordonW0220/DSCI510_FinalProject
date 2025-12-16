@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -90,9 +84,6 @@ with open(output_path, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 print(f"Saved data to {output_path}")
-
-
-# In[ ]:
 
 
 
