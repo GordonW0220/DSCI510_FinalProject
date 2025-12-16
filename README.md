@@ -74,6 +74,6 @@ structure
 2. python src/catapi.py
 3. python src/pageviews_api.py
 4. python src/wiki_scraper.py
-5. python src/clean_data.py
+5. python src/data_clean.py
 6. python src/run_analysis.py
 7. python src/visualize_results.py
