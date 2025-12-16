@@ -29,6 +29,7 @@ This project integrates data from three sources:
    - Includes intelligence, energy level, affection level, grooming requirements, lifespan, and weight
   
 structure
+
 ├── README.md
 
 ├── requirements.txt
